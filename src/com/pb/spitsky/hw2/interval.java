@@ -1,6 +1,8 @@
 package com.pb.spitsky.hw2;
+
 import java.util.Scanner;
-class interval {
+
+public class interval {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int operand;
